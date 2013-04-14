@@ -1,4 +1,1 @@
-matlabLibrary
-=============
-
-useful matlab functions library
+README
