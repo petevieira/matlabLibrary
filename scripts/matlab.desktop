@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Matlab_R2017a
+Comment=Matlab R2017a
+Exec=/home/pevieira/matlab/run_matlab.sh
+Terminal=false
+Type=Application
+Icon=/usr/local/MATLAB/R2017a/toolbox/matlab/icons/matlabicon.gif
